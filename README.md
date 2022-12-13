@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My GitHub stat:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekajakob&hide=stars&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Top languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebekajakob)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rebekajakob/rebekajakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
